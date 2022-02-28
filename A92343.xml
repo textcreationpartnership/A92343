@@ -1,0 +1,160 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>August, 17. 1642. A relation from Belfast in Ireland, sent to a friend, mentioning some late successe against the rebels, by Colonell Clotworthy, about Mount-joy, in the county of Tyrone, with a letter of the deputy-lieutenants of Devonshire, to the gentlemen of Cornwall.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92343</idno>
+            <idno type="STC">Wing R778</idno>
+            <idno type="STC">Thomason E112_23</idno>
+            <idno type="STC">ESTC R20676</idno>
+            <idno type="EEBO-CITATION">99865865</idno>
+            <idno type="PROQUEST">99865865</idno>
+            <idno type="VID">118116</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92343)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118116)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 20:E112[23])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>August, 17. 1642. A relation from Belfast in Ireland, sent to a friend, mentioning some late successe against the rebels, by Colonell Clotworthy, about Mount-joy, in the county of Tyrone, with a letter of the deputy-lieutenants of Devonshire, to the gentlemen of Cornwall.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Bartlet,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Massereene, John Clotworthy, --  Viscount, d. 1665.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Devon (England) --  History --  Early works to 1800.</term>
+               <term>Belfast (Northern Ireland) --  History --  Early works to 1800.</term>
+               <term>Ireland --  History --  Rebellion of 1641 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118116:1"/>
+            <pb facs="tcp:118116:1" rendition="simple:additions"/>
+            <p>Auguſt, 17. 1642.</p>
+            <p>A RELATION <hi>FROM BELFAST</hi> IN IRELAND, SENT TO A FRIEND, MENTIONING SOME late ſucceſſe againſt the Rebels, by Colonell <hi>Clotworthy,</hi> about Mount-Joy, in the County of <hi>Tyrone,</hi> WITH A LETTER OF THE Deputy-Lieutenants of <hi>Devonſhire,</hi> to the Gentlemen of Cornwall.</p>
+            <p>London Printed for <hi>John Bartlet.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:118116:2"/>
+            <pb n="3" facs="tcp:118116:2"/>
+            <head>A Relation from <hi>Belfaſt,</hi> ſent to a friend, mentioning ſome late ſucceſſe againſt the Rebels, by Colonel <hi>Clotworthy,</hi> about Mount-joy, in the County of Tyrone.</head>
+            <opener>
+               <salute>Worthy Sir,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">S</seg>Ince my laſt to you, of the eleventh of <hi>July</hi> from Mount-joy, Colonell <hi>Clot<g ref="char:EOLhyphen"/>worthy</hi> had ſome buſineſſe to call him o<g ref="char:EOLhyphen"/>ver to Antrem, where after his ſtay for two dayes, he was returning back to Mount-joy by water, where he met on the Lough with a great ſtorme, yet was reſolved to venture onwards not<g ref="char:EOLhyphen"/>withſtanding, and therefore caſt Anchor neere an Iſland in the Lough, called Rams Iſland, intend<g ref="char:EOLhyphen"/>ing there to land, and ſtay till the ſtorme was over, but when he was going to land there, a violent ſtorme forced him back againe to Antrem, where he that night received certain intelligence, that had he landed according to his intention in that Iſland, he had been cut off, for many of the Rebels had gotten thither for ſhelter, and might eaſily have prejudiced him, hee not expecting to meet any there, and the company with him not being many;
+<pb n="4" facs="tcp:118116:3"/>but thus did Gods immediate hand interpoſe and divert what otherwiſe was very neere. This ſtorme alſo loſt five of Colonell <hi>Clotworthies</hi> Boates, hee had built for the Lough but he by ſetting men on worke, preſently to repaire them, hath made up all his former number, which is 12, large boates that will carry above 60. men a peece, and the Admi<g ref="char:EOLhyphen"/>rail the Sidny, which alſo he hath built, and with theſe Botes and Barkes he is able to carry on any part of the Lough ſide neare a 1000. men, which doth ſo diſtract and torment the Rebels, that they have no quiet there abouts; hereby alſo we have all our victualls eaſily tranſported, and our Ammu<g ref="char:EOLhyphen"/>nition, (carrying now by land onely to <hi>Antrim</hi>) and thence by water in theſe Boates we convey it to any part joyning to the Lough, which is of ex<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>ng advantage to us.</p>
+            <p>As ſoone as the Lough was calme Colonell <hi>Clot<g ref="char:EOLhyphen"/>worthy</hi> went to <hi>Montjoy,</hi> to that part of his Regiment <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e left there, and preſently upon his comming, ha<g ref="char:EOLhyphen"/>ving notice the enemy was within ſeven or eight miles, he tooke 400. of his men, leaving ſome in garriſon in the Forts, and mounted 40. more with Firelockes, on Horſes he had formerly taken from the enemy, and with this 440. men he marched all night and came timely to the Legar of the Rebels, where he found moſt of them in their beds, and thereby had opportunitie to cut many of them off
+<pb n="5" facs="tcp:118116:3"/>before they could get to their Armes (and runne away) which preſently they did, though there were a 1000. of them; and as we are certainly in<g ref="char:EOLhyphen"/>formed Sir <hi>Philem Oneale</hi> was there alſo, and ranne among the reſt, but in Colonell <hi>Clotworthies</hi> firſt charge, they ſhot Colonol <hi>Ocane,</hi> (who is counted their moſt skilful Commander, who came from be<g ref="char:EOLhyphen"/>yond Sea to them) him they ſhot in the Leg, kild his Lieutenant Colonell, who was one of the chiefe of the <hi>O Quines,</hi> and divers of his Captaines, and about 60. of their common ſouldiers; had their horſe beene any thing good more execution might have been done upon them, but they were on<g ref="char:EOLhyphen"/>ly ſuch as Colonel <hi>Clot:</hi> took from the enemy, and had not one Shooe upon them all, yet ſerved to bring home a pray of 600. Cowes, which that night they brought home to the Leager at <hi>Mount-joy:</hi> So God bleſſed that dayes worke exceedingly, let him onely be acknowledged for it.</p>
+            <p>Within two dayes after, Colonel <hi>Clotworthy</hi> hearing the Rogues had a Camp at Mony-more, he began his March at midnight with 500. of his men, and came to their Camp by break of the day, where there was not many of the Rebels, and thoſe but inconſiderable fellows, had the cutting of them off, and juſt as he was comming, the rogues were going to kill one hundred and twenty poore Engliſh and Scots priſoners they had in their
+<pb n="6" facs="tcp:118116:4"/>hands, but by Gods providence his comming was ſo ſeaſonable, that he relieved and reſcued all of them, and cut off thoſe were going to deſtroy them: Thus did the Lord bring on them, what they intended for others: after this, Colonell <hi>Clot<g ref="char:EOLhyphen"/>worthy</hi> returned to the Leaguer at Mount-joy, where he ſtay, expecting ſome help from others to come and joyn with him, to March up further into the Countrey, God having ſo bleſſed him, that with halfe his Regiment he hath cleered twelve miles about him, ſave only Charlamount, which is kept with a few of the enemy, but we are in hope ſhortly to ſalute it, for my Lord <hi>Conway</hi> is going forth from hence, having with him 400. men; a piece of my Lord <hi>Ards,</hi> Lord <hi>Clandeboyes,</hi> and Co<g ref="char:EOLhyphen"/>lonell <hi>Chicheſters</hi> Regiments, who with 600. of his own men, and 300. Horſe, March through the Countrey to Mount-joy to Colonell <hi>Clotworthy,</hi> who with five or ſixe hundred of his men alſo, March thence with them, and all our proviſions, both of Victuals and Ammunition, we ſent to An<g ref="char:EOLhyphen"/>trem, that thence by the Lough it might bee con<g ref="char:EOLhyphen"/>veyed to us to Mount-joy, where we intend (God willing) to be on Wedneſday next, what ſucceſſe the Lord is pleaſed to give us, you ſhall heare at our returne, in the meane time, <hi>Farewell.</hi>
+            </p>
+            <closer>
+               <dateline>From <hi>Belfaſt,</hi> 
+                  <date>the 28, of July, 1642.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="7" facs="tcp:118116:4"/>
+            <head>A Letter of the Deputy-Lieutenants of Devonſhire, to the Gent. of Cornwall.</head>
+            <opener>
+               <salute>SIRS,</salute>
+            </opener>
+            <p>WHen Religion, liberty, property, and our Lawes lie at the ſtake, he deſerves an exe<g ref="char:EOLhyphen"/>cration that appeares not a defender: wee know the attempts that are now on foot: for the deſtruction of all is not confined to the Northerne parts, but the ſtorme runs mainly hither. That wiſdome hath no life, that foreſees a danger to feare it, not to prevent it. We know our ſafeties are bound up with yours, and not only that, but our affections to our Religion and Countrey, com<g ref="char:EOLhyphen"/>mands our expreſſions, and enſuing reſolutions, which are, that on all occaſions we ſhall be ready according to our Proteſtation, and the commands of both Houſes of Parliament, and as far as the ſafe<g ref="char:EOLhyphen"/>ty of the Countrey will permit to be aſſiſtant to you for the maintenance of the Ordinance of Par<g ref="char:EOLhyphen"/>liament, and the oppoſing the Commiſſion of Ar<g ref="char:EOLhyphen"/>ray, which enſlave not only perſons, properties,
+<pb n="8" facs="tcp:118116:5"/>but conſciences, in informing men, as it is proba<g ref="char:EOLhyphen"/>ble, to fight againſt theſe that have been, and are the known defenders of our liberties: If wee are linkt together, we can hardly be ruined; Let us contract a mutuall aſſiſtance, that wee may ſo doe, is the deſire of, &amp;c.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
